@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "author": "PeachFuzz#3683",
+        "version": "1.0.0",
+        "name": "BackgroundColours"
+    },
+    "background": {},
+    "fonts": {},
+    "simple_colors": {},
+    "colors": {
+        "primary_500": -15225722,
+        "primary_600": -14303143,
+        "primary_630": -14188851,
+        "primary_660": -8110684,
+        "primary_700": -2490290,
+        "primary_800": -1788928,
+        "primary_dark_600": -2725874,
+        "primary_dark_630": -2673622,
+        "primary_dark_660": -6881211,
+        "primary_dark_700": -7196160,
+        "primary_dark_800": -10057046
+    },
+    "drawable_tints": {},
+    "raws": {}
+}
