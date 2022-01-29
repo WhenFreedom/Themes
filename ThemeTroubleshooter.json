@@ -1,5 +1,6 @@
 {
   "color_primary_700": -5317,
+  "color_brand_500": -769226,
   "color_primary_800": -11751600,
   "color_primary_500": -17546442,
   "color_primary_dark_700": -6652721,
@@ -9,5 +10,6 @@
   "color_primary_dark_660": -16161,
   "color_primary_dark_630": -26624,
   "color_primary_660": -12627531,
-  "color_primary_dark_800": -2659
+  "color_primary_dark_800": -2659,
+  "color_brand_new_500": -6543440
 }
