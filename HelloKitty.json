@@ -1,0 +1,56 @@
+{
+    "manifest": {
+        "author": "PeachFuzz#3683",
+        "version": "1.0.0",
+        "name": "Hello_Kitty"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/935413163636191253\/945396746845057075\/thumb-1920-221937.jpg",
+        "overlay_alpha": 0
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/935413163636191253\/945481955766587392\/JandaHappyDay.ttf"
+    },
+    "simple_colors": {
+        "accent": -1682039,
+        "active_channel": 1322909774,
+        "mention_highlight": 1692412523
+    },
+    "colors": {
+        "primary_500": 565022907,
+        "primary_600": -723102327,
+        "primary_630": 434418688,
+        "primary_660": 939524096,
+        "primary_700": -858483279,
+        "primary_800": -1074954073,
+        "primary_dark_600": 938783690,
+        "primary_dark_630": -1630830430,
+        "primary_dark_660": 988173705,
+        "primary_dark_700": 451066059,
+        "primary_dark_800": 804094119,
+        "primary_300": -6881211,
+        "brand_new": -2490290,
+        "primary_700_alpha_60": -2490290,
+        "abc_primary_text_material_dark": -4565629,
+        "primary_dark_200": -380431574,
+        "white_800": -6881211,
+        "white_500": -6881211,
+        "transparent": -1562771378,
+        "uikit_settings_item_text_color_dark": -13367781,
+        "primary_dark_400": -1075828117,
+        "brand_new_560": -2490290,
+        "link": -6881211,
+        "primary_dark_160": -1080623035,
+        "primary_dark_230": -1080623035,
+        "primary_dark_300": -539077499,
+        "primary_dark_360": -387962261,
+        "primary_dark_560": -1080623035
+    },
+    "drawable_tints": {
+        "ic_sidebar_pins_on_dark_24dp": -543752123,
+        "ic_sidebar_pins_off_dark_24dp": -539077499,
+        "ic_sidebar_notifications_on_dark_24dp": -539077499,
+        "ic_sidebar_notifications_off_dark_24dp": -6881211
+    },
+    "raws": {}
+}
