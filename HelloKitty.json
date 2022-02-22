@@ -2,7 +2,8 @@
     "manifest": {
         "author": "PeachFuzz#3683",
         "version": "1.0.0",
-        "name": "Hello_Kitty"
+        "name": "Hello_Kitty",
+        "updater": "https:\/\/raw.githubusercontent.com\/WhenFreedom\/Themes\/main\/HelloKitty.json"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/935413163636191253\/945396746845057075\/thumb-1920-221937.jpg",
@@ -17,7 +18,7 @@
         "mention_highlight": 1692412523
     },
     "colors": {
-        "primary_500": 565022907,
+        "primary_500": 1223054729,
         "primary_600": -723102327,
         "primary_630": 434418688,
         "primary_660": 939524096,
@@ -36,7 +37,7 @@
         "white_800": -6881211,
         "white_500": -6881211,
         "transparent": -1562771378,
-        "uikit_settings_item_text_color_dark": -13367781,
+        "uikit_settings_item_text_color_dark": -35660,
         "primary_dark_400": -1075828117,
         "brand_new_560": -2490290,
         "link": -6881211,
