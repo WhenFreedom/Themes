@@ -7,7 +7,7 @@
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/935413163636191253\/945396746845057075\/thumb-1920-221937.jpg",
-        "overlay_alpha": 0
+        "overlay_alpha": 2
     },
     "fonts": {},
     "simple_colors": {
@@ -16,40 +16,51 @@
         "mention_highlight": 1692412523
     },
     "colors": {
-        "primary_500": 1223054729,
+        "primary_500": -1577866556,
         "primary_600": -805306368,
         "primary_630": 434418688,
         "primary_660": 939524096,
         "primary_700": -858483279,
         "primary_800": -1074954073,
-        "primary_dark_600": 938783690,
+        "primary_dark_600": 955560906,
         "primary_dark_630": -1630830430,
         "primary_dark_660": 988173705,
         "primary_dark_700": 451066059,
         "primary_dark_800": 804094119,
         "primary_300": -6881211,
-        "brand_new": -2490290,
+        "brand_new": -1212249,
         "primary_700_alpha_60": -2490290,
         "abc_primary_text_material_dark": -4565629,
         "primary_dark_200": -380431574,
         "white_800": -6881211,
         "white_500": -6881211,
         "transparent": -1562771378,
-        "uikit_settings_item_text_color_dark": -35660,
+        "uikit_settings_item_text_color_dark": -1682039,
         "primary_dark_400": -1075828117,
         "brand_new_560": -2490290,
         "link": -6881211,
         "primary_dark_160": -1080623035,
         "primary_dark_230": -1080623035,
-        "primary_dark_300": -539077499,
+        "primary_dark_300": -1682039,
         "primary_dark_360": -387962261,
-        "primary_dark_560": -1080623035
+        "primary_dark_560": -1080623035,
+        "link_500": -6881211,
+        "brand_new_500": -740406,
+        "uikit_settings_item_text_color_light": -740406,
+        "uikit_btn_bg_color_selector_red": -1412708,
+        "status_grey_200": -740406,
+        "dim_foreground_material_light": -1412708
     },
     "drawable_tints": {
         "ic_sidebar_pins_on_dark_24dp": -543752123,
-        "ic_sidebar_pins_off_dark_24dp": -539077499,
-        "ic_sidebar_notifications_on_dark_24dp": -539077499,
-        "ic_sidebar_notifications_off_dark_24dp": -6881211
+        "ic_sidebar_pins_off_dark_24dp": -1682039,
+        "ic_sidebar_notifications_on_dark_24dp": -1682039,
+        "ic_sidebar_notifications_off_dark_24dp": -6881211,
+        "ic_channel_announcements": -1682039,
+        "ic_channel_text": -1682039,
+        "ic_channel_text_nsfw": -1682039,
+        "ic_channel_text_locked": -1682039,
+        "ic_file_download_white_24dp": -6881211
     },
     "raws": {}
 }
