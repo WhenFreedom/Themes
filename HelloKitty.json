@@ -17,7 +17,6 @@
     },
     "colors": {
         "primary_500": -1577866556,
-        "primary_600": -805306368,
         "primary_630": 434418688,
         "primary_660": 939524096,
         "primary_700": -858483279,
@@ -27,7 +26,6 @@
         "primary_dark_660": 988173705,
         "primary_dark_700": 451066059,
         "primary_dark_800": 804094119,
-        "primary_300": -6881211,
         "brand_new": -1212249,
         "primary_700_alpha_60": -2490290,
         "abc_primary_text_material_dark": -4565629,
@@ -49,7 +47,8 @@
         "uikit_settings_item_text_color_light": -740406,
         "uikit_btn_bg_color_selector_red": -1412708,
         "status_grey_200": -740406,
-        "dim_foreground_material_light": -1412708
+        "dim_foreground_material_light": -1412708,
+        "primary_300": -6881211
     },
     "drawable_tints": {
         "ic_sidebar_pins_on_dark_24dp": -543752123,
