@@ -25,7 +25,7 @@
         "primary_dark_630": -1630830430,
         "primary_dark_660": 988173705,
         "primary_dark_700": 451066059,
-        "primary_dark_800": 804094119,
+        "primary_dark_800": 1961722023,
         "brand_new": -1212249,
         "primary_700_alpha_60": -2490290,
         "abc_primary_text_material_dark": -4565629,
@@ -48,7 +48,8 @@
         "uikit_btn_bg_color_selector_red": -1412708,
         "status_grey_200": -740406,
         "dim_foreground_material_light": -1412708,
-        "primary_300": -6881211
+        "primary_300": -6881211,
+        "uikit_btn_bg_color_selector_green": -1682039
     },
     "drawable_tints": {
         "ic_sidebar_pins_on_dark_24dp": -543752123,
@@ -59,7 +60,8 @@
         "ic_channel_text": -1682039,
         "ic_channel_text_nsfw": -1682039,
         "ic_channel_text_locked": -1682039,
-        "ic_file_download_white_24dp": -6881211
+        "ic_file_download_white_24dp": -6881211,
+        "ic_status_online_16dp": -14303143
     },
     "raws": {}
 }
